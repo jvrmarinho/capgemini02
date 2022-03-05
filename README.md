@@ -18,7 +18,7 @@ Abaixo demonstro a estrutura das pasta do meu projeto:
 
 Da mesma forma, o código fonte após compilado é gerado e enviado para a pasta `bin` da raiz do projeto.
 
-## Dependency Management
+## Executando projeto
 
 Utilizando um terminal abra a pasta e acesse a mesma que contém as classes java das questões 1, 2 e 3.
 
